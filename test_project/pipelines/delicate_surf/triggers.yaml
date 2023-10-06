@@ -1,0 +1,11 @@
+triggers:
+- envs: []
+  name: holy pond
+  pipeline_uuid: delicate_surf
+  schedule_interval: '@once'
+  schedule_type: time
+  settings: null
+  sla: null
+  start_time: 2023-10-05 19:35:00
+  status: inactive
+  variables: null
